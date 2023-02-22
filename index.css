@@ -38,6 +38,7 @@ li{
 }
 .btn{
     height: 40px;
+    color: black;
     width:200px;
     background: linear-gradient(to bottom right, rgb(139, 221, 240), rgb(5, 69, 118));
     outline: none;
